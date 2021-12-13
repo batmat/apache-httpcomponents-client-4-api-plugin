@@ -20,7 +20,7 @@
     <java.level>8</java.level>
     <httpcore.version>4.4.14</httpcore.version>
     <httpclient.version>4.5.13</httpclient.version>
-    <httpasyncclient.version>4.1.4</httpasyncclient.version>
+    <httpasyncclient.version>4.1.5</httpasyncclient.version>
   </properties>
 
   <name>Jenkins Apache HttpComponents Client 4.x API Plugin</name>
